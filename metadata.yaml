@@ -1,5 +1,8 @@
 _repo: The-Fantasy-Fan-Volume-1-Number-11-July-1934-The-Fan-s-Own-Magazine_64915
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64915-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hornig, Charles D.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64915#The-Fantasy-Fan-Volume-1-Number-11-July-1934-The-Fan-s-Own-Magazine
 gutenberg_issued: '2021-03-24'
 gutenberg_type: Text
 identifiers:
